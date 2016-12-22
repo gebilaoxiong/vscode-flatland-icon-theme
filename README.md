@@ -1,6 +1,8 @@
 # vscode-flatland-icon-theme
-flatland icons to your VS Code.
+Flatland icons to your VS Code.
 
+
+![preview](https://github.com/gebilaoxiong/vscode-flatland-icon-theme/blob/master/images/preview.png?raw=true)
 
 ## Installation
 
