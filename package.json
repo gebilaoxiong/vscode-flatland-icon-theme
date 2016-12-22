@@ -1,0 +1,37 @@
+{
+    "name": "vscode-flatland-icon-theme",
+    "displayName": "flatland icon theme",
+    "description": "flatland icons for vscode",
+    "version": "0.0.1",
+    "publisher": "gebilaoxiong",
+    "engines": {
+        "vscode": "^1.5.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "iconThemes": [
+            {
+                "id": "flatland-icon-theme",
+                "label": "Flatland Icon Theme",
+                "path": "./vscode-flatland-icon-theme.json"
+            }
+        ]
+    },
+    "keywords": [
+        "icons",
+        "theme",
+        "flatland",
+        "icon-theme",
+        "flatland-icon"
+    ],
+    "homepage": "https://github.com/gebilaoxiong/vscode-flatland-icon-theme/blob/master/README.md",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/gebilaoxiong/vscode-flatland-icon-theme.git"
+    },
+    "bugs": {
+        "url": "https://github.com/gebilaoxiong/vscode-flatland-icon-theme/issues"
+    }
+}

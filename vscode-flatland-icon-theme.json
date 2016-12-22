@@ -1,0 +1,22 @@
+{
+  "iconDefinitions": {
+    "_folder_open_dark": {
+      "iconPath": "./icons/folder-open@2x.png"
+    },
+    "_folder_dark": {
+      "iconPath": "./icons/folder-closed@2x.png"
+    },
+    "_file_dark":{
+      "iconPath": "./icons/file.svg"
+    }
+  },
+  "folderExpanded": "_folder_open_dark",
+  "folder": "_folder_dark",
+  "file": "_file_dark",
+  "fileNames": {
+    // file names here
+  },
+  "folderNames": {
+    // folder names here
+  }
+}
