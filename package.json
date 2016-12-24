@@ -2,7 +2,7 @@
     "name": "vscode-flatland-icon-theme",
     "displayName": "flatland icon theme",
     "description": "flatland icons for vscode",
-    "version": "0.0.5",
+    "version": "0.0.6",
     "publisher": "gebilaoxiong",
     "engines": {
         "vscode": "^1.5.0"
@@ -23,8 +23,9 @@
     "keywords": [
         "icons",
         "theme",
-        "flatland",
         "icon-theme",
+        "flat",
+        "flatland",
         "flatland-icon"
     ],
     "homepage": "https://github.com/gebilaoxiong/vscode-flatland-icon-theme/blob/master/README.md",
