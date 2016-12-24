@@ -1,7 +1,10 @@
 # vscode-flatland-icon-theme
 Flatland icons to your VS Code.
 
+[![vsmarketplace](http://vsmarketplacebadge.apphb.com/installs/gebilaoxiong.vscode-flatland-icon-theme.svg)](https://marketplace.visualstudio.com/items?itemName=gebilaoxiong.vscode-flatland-icon-theme)
+[![vsmarketplace](http://vsmarketplacebadge.apphb.com/version/gebilaoxiong.vscode-flatland-icon-theme.svg)](https://marketplace.visualstudio.com/items?itemName=gebilaoxiong.vscode-flatland-icon-theme)
 
+## Preview
 ![preview](https://github.com/gebilaoxiong/vscode-flatland-icon-theme/blob/master/images/preview.png?raw=true)
 
 ## Installation
